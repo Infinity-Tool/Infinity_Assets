@@ -1,0 +1,26 @@
+User Agreement for Infinity Tool
+
+This User Agreement ("Agreement") is a legal agreement between you ("User" or "You") and Infinity Tool ("Tool" or "We" or "Us") governing your use of the Infinity Tool mod file download tool ("Tool") provided by Us. By using the Infinity Tool, you agree to be bound by the terms and conditions of this Agreement. If you do not agree with these terms, you must refrain from using the Infinity Tool.
+
+    1. User Responsibilities:
+    2.1. Proper Usage: You agree to use the Infinity Tool in accordance with applicable laws, regulations, and this Agreement. 
+    2.2. Understanding of Functionality: You acknowledge and understand that the Infinity Tool is capable of deleting folders on your computer. You accept full responsibility for any folders or files deleted by the Infinity Tool while using its functionality. It is your sole responsibility to ensure the accuracy of your actions and to safeguard important files and folders.
+    2.3. Compliance with Game Terms: You are solely responsible for ensuring that your use of mod files downloaded using the Infinity Tool complies with the terms of the respective game for which the mods are intended. We are not responsible for any consequences resulting from your violation of the game's terms or any associated actions taken against your account.
+
+    2. Intellectual Property:
+    The Infinity Tool and all related materials, including but not limited to software, documentation, graphics, logos, and trademarks, are the intellectual property of Us or our licensors. The source code of the Infinity Tool is open-source and available for review; however, you are not allowed to modify, distribute, or reproduce the code in any way without our express written permission.
+
+    3. Limitation of Liability:
+    To the maximum extent permitted by applicable law, We shall not be liable to you or any third party for any direct, indirect, incidental, consequential, or punitive damages arising out of or in connection with your use of the Infinity Tool, including but not limited to any accidental deletion of files or folders, even if We have been advised of the possibility of such damages.
+
+    4. Indemnification:
+    You agree to indemnify, defend, and hold Us harmless from and against any and all claims, damages, liabilities, costs, and expenses (including reasonable attorney's fees) arising out of or in connection with your use of the Infinity Tool, including any accidental deletion of files or folders.
+
+    5. Modification of Agreement:
+    We reserve the right to modify, amend, or change any terms of this Agreement at any time without prior notice. Your continued use of the Infinity Tool after any such modifications shall constitute your acceptance of the revised Agreement.
+
+By using the Infinity Tool, you acknowledge that you have read, understood, and agreed to be bound by this Agreement. If you do not agree to these terms, you must refrain from using the Infinity Tool.
+
+Date of last update: July 5th, 2023
+
+If you have any questions or concerns regarding this Agreement, please contact us at [Contact Information].
