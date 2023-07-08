@@ -1,14 +1,17 @@
-[
-  {
-    "name": "Test Settlement",
-    "directory": "/Test_Settlement_Files",
-    "mods": [
-      "/Test_Settlement_Files/mods/01.mp4"
-      "/Test_Settlement_Files/mods/02.mp4"
-      "/Test_Settlement_Files/mods/03.mp4"
-      "/Test_Settlement_Files/mods/04.mp4"
-      "/Test_Settlement_Files/mods/05.mp4"
-    ],
-    "localPrefabs": []
-  }
-]
+{
+  "host": "https://infinity-tool.github.io/Infinity_Assets/",
+  "selection": [
+    {
+      "name": "Test Settlement",
+      "directory": "/Test_Settlement_Files",
+      "mods": [
+        "files/Test_Settlement_Files/mods/01.mp4",
+        "files/Test_Settlement_Files/mods/02.mp4",
+        "files/Test_Settlement_Files/mods/03.mp4",
+        "files/Test_Settlement_Files/mods/04.mp4",
+        "files/Test_Settlement_Files/mods/05.mp4"
+      ],
+      "localPrefabs": []
+    }
+  ]
+}
