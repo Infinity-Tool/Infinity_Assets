@@ -1,41 +1,14 @@
 [
   {
-    "name": "Asia Town",
-    "directory": "/AsiaTown",
-    "pois": [],
-    "tilesets": []
-  },
-  {
-    "name": "Mega City",
-    "directory": "/MegaCity",
-    "poi_tilesets": [
-      {
-        "name": "MC Ghost Busters",
-        "directory": "/MCGhostBusters",
-        "imagePath": "preview.jpg",
-        "files": {
-          "mods": [
-            "/mods/MCGhostBusters/modinfo.xml",
-            "/mods/MCGhostBusters/localization.txt",
-            "/mods/MCGhostBusters/Config/rwgmixer.xml"
-          ],
-          "prefabs": ["/poi/sefsefsefsef.xml"]
-        }
-      },
-      {
-        "name": "MC Train",
-        "directory": "/MCTrain",
-        "files": {
-          "mods": ["/"],
-          "prefabs": ["/poi/"]
-        }
-      }
-    ]
-  },
-  {
-    "name": "Murder Town",
-    "directory": "/MurderTown",
-    "pois": [],
-    "tilesets": []
+    "name": "Test Settlement",
+    "directory": "/Test_Settlement_Files",
+    "mods": [
+      "/Test_Settlement_Files/mods/01.mp4"
+      "/Test_Settlement_Files/mods/02.mp4"
+      "/Test_Settlement_Files/mods/03.mp4"
+      "/Test_Settlement_Files/mods/04.mp4"
+      "/Test_Settlement_Files/mods/05.mp4"
+    ],
+    "localPrefabs": []
   }
 ]
